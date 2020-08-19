@@ -3,10 +3,12 @@ Converter
 [![Platform](https://img.shields.io/badge/platform-android-green.svg)](http://developer.android.com/index.html)
 ==========================================================================
 
-Converter MS GUID to Base64 on Java and Android
+Converter MS GUID to Base64 on Java and Android         
+    
 
-Given a guid of MS SQL: 9D7CEE8C-3B1E-4C08-ACBF-B9DE1847533B
-Base64 result: jO58nR47CEysv7neGEdTOw==
+Given a guid of MS SQL: 9D7CEE8C-3B1E-4C08-ACBF-B9DE1847533B    
+Base64 result: jO58nR47CEysv7neGEdTOw==     
+
 
 Contact 
 ------- 
